@@ -1,1 +1,1 @@
-Página web creada con el propósito de aprender e implementar un site web html y xml en una página de un caso práctico
+Página web creada con el propósito de aprender e implementar un site map html y xml en una página de un caso práctico
